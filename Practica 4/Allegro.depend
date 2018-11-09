@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1475904089 source:c:\users\rafa\dropbox\escom\geneticos\practica4\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 c:\users\rafa\dropbox\escom\geneticos\practica4\inicia.h
+
+1540441121 source:c:\users\rafa\dropbox\escom\geneticos\practica4\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<bitset>
+	"torneo.h"
+	<iomanip>
+
+1540440380 c:\users\rafa\dropbox\escom\geneticos\practica4\torneo.h
+	<bitset>
+	<random>
+
+1540440393 source:c:\users\rafa\dropbox\escom\geneticos\practica4\torneo.cpp
+	"torneo.h"
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<array>
+	<algorithm>
+	<vector>
+
+1475904089 source:c:\users\rafa_\dropbox\escom\geneticos\practica4\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475904090 c:\users\rafa_\dropbox\escom\geneticos\practica4\inicia.h
+
+1540441121 source:c:\users\rafa_\dropbox\escom\geneticos\practica4\main.cpp
+	<allegro.h>
+	"inicia.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<bitset>
+	"torneo.h"
+	<iomanip>
+
+1540488874 c:\users\rafa_\dropbox\escom\geneticos\practica4\torneo.h
+	<bitset>
+	<random>
+
+1540440393 source:c:\users\rafa_\dropbox\escom\geneticos\practica4\torneo.cpp
+	"torneo.h"
+	<iostream>
+	<time.h>
+	<stdio.h>
+	<array>
+	<algorithm>
+	<vector>
+
